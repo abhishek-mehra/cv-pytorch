@@ -1,7 +1,7 @@
 # cv-pytorch
 Project Name: Pytorch Linear Regression and CNN Models
 Overview:
-In this project, we have implemented linear regression and convolutional neural network (CNN) models using the Pytorch deep learning framework. We have started by building a simple linear regression model, followed by a CNN model on FashionMNIST dataset. Finally, we have implemented a CNN model to classify images of sushi, pizza, and steak.
+In this project, I have implemented linear regression and convolutional neural network (CNN) models using the Pytorch deep learning framework. I have started by building a simple linear regression model, followed by a CNN model on FashionMNIST dataset. Finally, I have implemented a CNN model to classify images of sushi, pizza, and steak.
 
 Requirements:
 Python (version >= 3.6)
